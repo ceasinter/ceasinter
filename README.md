@@ -14,6 +14,7 @@ Me apasiona crear soluciones prácticas para retail, logística e inventarios, c
   
 🌐 Node.js / APIs
 - Curso Node.js Express – Prácticas con Express, rutas y controladores.
+  
 🧠 SAP / ABAP
 - ABAP Cloud – Ejercicios ABAP Cloud.
 - SAP Fiori – Proyecto Fiori para aplicaciones SAP.
