@@ -28,7 +28,7 @@ C# SAP Node.js SQL
 ---
 
 📸 Capturas de pantalla
-(Aquí puedes enlazar imágenes de tus proyectos, por ejemplo Retro Slots o WinForms)
+
 ![Retro Slots](Screenshots/retro-slots.png)
 ![WinForms Clientes](Screenshots/winforms-clientes.png)
 
