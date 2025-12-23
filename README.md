@@ -29,7 +29,7 @@ C# SAP Node.js SQL
 
 📸 Capturas de pantalla
 
-![Retro Slots](Screenshots/retro-slots.png)
+![Retro Slots](https://github.com/ceasinter/Retro-Slots-CapturasPantallas/Pantalla01.jpg)
 ![WinForms Clientes](Screenshots/winforms-clientes.png)
 
 ---
