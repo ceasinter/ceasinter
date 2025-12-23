@@ -38,13 +38,6 @@ C# SAP Node.js SQL
 
 ---
 
-# 📸 Capturas de pantalla
-
-- ![Retro Slots](https://github.com/ceasinter/Retro-Slots-CSharp-Consola/blob/main/CapturasPantalla/Pantalla01.jpg)
-- ![Crud_Consola](https://github.com/ceasinter/Crud-CSharp-Consola/blob/main/Capturas/menu.png)
-
----
-
 # 📬 Contacto
 - LinkedIn: www.linkedin.com/in/carlos-enrique-amaro-soto
 - GitHub: https://github.com/ceasinter/ceasinter
