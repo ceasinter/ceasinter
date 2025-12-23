@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hola, soy Carlos Amaro
+Soy Hybrid Technical Lead & Backend Consultant, especializado en C#/.NET, SAP ABAP y Node.js.
+Me apasiona crear soluciones prácticas para retail, logística e inventarios, con enfoque en calidad, modularidad y presentación profesional.
 
-<!--
-**ceasinter/ceasinter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🚀 Portafolio
+🎮 C# Consola
+- Retro Slots – Juego retro con animación de rodillos y tabla de pagos.
+- CRUD Usuarios – CRUD en consola con MySQL y estilo retro.
+🖥️ C# WinForms
+- Gestión de Clientes – CRUD gráfico con MySQL.
+🌐 Node.js / APIs
+- Curso Node.js Express – Prácticas con Express, rutas y controladores.
+🧠 SAP / ABAP
+- ABAP Cloud – Ejercicios ABAP Cloud.
+- SAP Fiori – Proyecto Fiori para aplicaciones SAP.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+--- 
+
+🛠️ Tecnologías
+C# SAP Node.js SQL
+
+---
+
+📸 Capturas de pantalla
+(Aquí puedes enlazar imágenes de tus proyectos, por ejemplo Retro Slots o WinForms)
+![Retro Slots](Screenshots/retro-slots.png)
+![WinForms Clientes](Screenshots/winforms-clientes.png)
+
+---
+🎯 Próximos pasos
+- Integrar sonido en proyectos de consola.
+- Modularizar helpers y lógica en librerías reutilizables.
+- Publicar demos en video o GIF.
+- Mejorar presentación visual en GitHub con banners y badges.
+
+📬 Contacto
+- LinkedIn: www.linkedin.com/in/carlos-enrique-amaro-soto
+- GitHub: https://github.com/ceasinter/ceasinter
+
