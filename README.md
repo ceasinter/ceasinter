@@ -6,40 +6,40 @@ Me apasiona crear soluciones prácticas para retail, logística e inventarios, c
 
 # 🚀 Portafolio
 
+# C# / .Net
 🎮 C# Consola
 - [Retro Slots](https://github.com/ceasinter/Retro-Slots-CSharp-Consola) – Juego retro de Slots TragaMoneda con animación de rodillos y tabla de pagos.
 - [CRUD Artículos](https://github.com/ceasinter/Crud-CSharp-Consola) - Crud en Consola con Conexión a MySql.
 
 🖥️ C# WinForms
 - [Formulario Gestión de Clientes](https://github.com/ceasinter/Formulario-Clientes-CSharp-WinForms) – CRUD en WinForms C# con conexión a MySQL.
-  
+
+# Node.Js
+
 🌐 Node.js / APIs
 - Curso Node.js Express – Prácticas con Express, rutas y controladores.
-  
+
+# Sap
+
 🧠 SAP / ABAP
 - ABAP Cloud – Ejercicios ABAP Cloud.
 - SAP Fiori – Proyecto Fiori para aplicaciones SAP.
 
 --- 
 
-🛠️ Tecnologías
+# 🛠️ Tecnologías
 C# SAP Node.js SQL
 
 ---
 
-📸 Capturas de pantalla
+# 📸 Capturas de pantalla
 
 ![Retro Slots](https://github.com/ceasinter/Retro-Slots-CSharp-Consola/blob/main/CapturasPantalla/Pantalla01.jpg)
-![WinForms Clientes](Screenshots/winforms-clientes.png)
+![WinForms Clientes](https://github.com/ceasinter/Crud-CSharp-Consola/blob/main/Capturas/menu.png)
 
 ---
-🎯 Próximos pasos
-- Integrar sonido en proyectos de consola.
-- Modularizar helpers y lógica en librerías reutilizables.
-- Publicar demos en video o GIF.
-- Mejorar presentación visual en GitHub con banners y badges.
 
-📬 Contacto
-- LinkedIn: www.linkedin.com/in/carlos-enrique-amaro-soto
-- GitHub: https://github.com/ceasinter/ceasinter
+# 📬 Contacto
+- [LinkedIn]:(www.linkedin.com/in/carlos-enrique-amaro-soto)
+- [GitHub]:(https://github.com/ceasinter/ceasinter)
 
