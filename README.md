@@ -6,6 +6,8 @@ Me apasiona crear soluciones prácticas para retail, logística e inventarios, c
 
 🚀 Portafolio
 🎮 C# Consola
+- - [Retro Slots](https://github.com/ceasinter/Retro-Slots-CSharp-Consola) – Juego retro de Slots TragaMoneda con animación de rodillos y tabla de pagos.
+
 - Retro Slots – Juego retro con animación de rodillos y tabla de pagos.
 - CRUD Usuarios – CRUD en consola con MySQL y estilo retro.
 🖥️ C# WinForms
