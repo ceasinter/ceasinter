@@ -40,6 +40,6 @@ C# SAP Node.js SQL
 ---
 
 # 📬 Contacto
-- [LinkedIn]:(www.linkedin.com/in/carlos-enrique-amaro-soto)
-- [GitHub]:(https://github.com/ceasinter/ceasinter)
+- LinkedIn: www.linkedin.com/in/carlos-enrique-amaro-soto
+- GitHub: @ceasinter
 
