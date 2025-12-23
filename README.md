@@ -7,10 +7,11 @@ Me apasiona crear soluciones prácticas para retail, logística e inventarios, c
 🚀 Portafolio
 🎮 C# Consola
 - [Retro Slots](https://github.com/ceasinter/Retro-Slots-CSharp-Consola) – Juego retro de Slots TragaMoneda con animación de rodillos y tabla de pagos.
-- [CRUD Artículos](https://github.com/ceasinter/Crud
-- CRUD Usuarios – CRUD en consola con MySQL y estilo retro.
+- [CRUD Artículos](https://github.com/ceasinter/Crud-CSharp-Consola) - Crud en Consola con Conexión a MySql.
+
 🖥️ C# WinForms
-- Gestión de Clientes – CRUD gráfico con MySQL.
+- [Formulario Gestión de Clientes](https://github.com/ceasinter/Formulario-Clientes-CSharp-WinForms) – CRUD en WinForms C# con conexión a MySQL.
+  
 🌐 Node.js / APIs
 - Curso Node.js Express – Prácticas con Express, rutas y controladores.
 🧠 SAP / ABAP
