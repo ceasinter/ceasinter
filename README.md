@@ -2,7 +2,7 @@
 Apasionado por la programación y automatización de procesos, he programado en lenguajes Pascal, Clipper, Foxpro (DOS/Visual Foxpro), 
 Visual Basic, PHP, HTML, CSS, JavaScript y herramientas como Access, VBA.
 Actualmente me encuentro en proceso de retomar mis caminos de la programación buscando adaptarme a las nuevas tecnologías como C#/.NET, 
-SAP ABAP y Node.js y Java, entre todas me he identificado mucho más con C# y la tecnología .NET al igual que Node.js.  
+SAP ABAP y Node.js y Java, además de Cobol y AS/400.
 Mis experiencias laborales han sido en el área de Logística, Inventario, Aduanas (Comercio Exterior) en las cuales he dejado herramientas, 
 módulos y soluciones así como en el área de soporte técnico en informática. He dejado creadas soluciones prácticas para retail, logística 
 e inventarios las cuales permitieron agilizar los procesos logísticos y el mejor manejo de la información así como la seguridad y consistencia
