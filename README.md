@@ -30,10 +30,11 @@ de la misma. Para bases de datos MySql, PostGreSql y  SQL Server.
 - ABAP Cloud – Ejercicios ABAP Cloud.
 - SAP Fiori – Proyecto Fiori para aplicaciones SAP.
 
+# Laravel Php
 --- 
 
 # 🛠️ Tecnologías
-C# SAP Node.js SQL
+Laravel/PHP C# SAP/Abap SQL
 
 ---
 
