@@ -1,11 +1,8 @@
 # 👋 Hola, soy Carlos Amaro
-Apasionado por la programación y automatización de procesos, he programado en lenguajes Pascal, Clipper, Foxpro (DOS/Visual Foxpro), 
-Visual Basic, PHP, HTML, CSS, JavaScript y herramientas como Access, VBA.
-Actualmente me desempeño como Consultor Sap Abap/Fiori y desarrollador Web Php con Laravel.
-Mis experiencias laborales han sido en el área de Logística, Inventario, Aduanas (Comercio Exterior) en las cuales he dejado herramientas, 
-módulos y soluciones así como en el área de soporte técnico en informática. He dejado creadas soluciones prácticas para retail, logística 
-e inventarios las cuales permitieron agilizar los procesos logísticos y el mejor manejo de la información así como la seguridad y consistencia
-de la misma. Para bases de datos MySql, PostGreSql y  SQL Server.
+Apasionado por la programación y automatización de procesos, usando distintas tecnologías y lenguajes de programación: Pascal, Clipper, Foxpro (DOS/Visual Foxpro), 
+Visual Basic, PHP, HTML, CSS, JavaScript y herramientas como Access, VBA. Para bases de datos MySql, PostGreSql y  SQL Server. Actualmente me encuentro desarrollando en Laravel/PHP, y algunos proyectos en .Net 8. Además de participar en proyectos como consutor semi-senior en ABAP/SAP.
+
+Mis experiencias laborales han sido en el área de Logística, Inventario, Aduanas (Comercio Exterior) en las cuales he implementado herramientas, módulos y soluciones con la finalidad de automatizar muchos de los procesos de gestión, logíctica y gerencia e inventarios de almacenes y centros de distribución en el área de retail y mayorista y así  agilizar los procesos logísticos y el mejor manejo de la información así como la seguridad y consistencia de la misma. 
 
 ---
 
