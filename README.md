@@ -1,7 +1,7 @@
 # 👋 Hola, soy Carlos Amaro
 Aunque toda mi experiencia laboral durante mas de 20 años se ha basado en las áreas de Aduanas, Logística, Inventario, Almacenes y Centros de Distribución, mi pasión por la programación y automatización de procesos, me ha permitido crear herramientas y tareas en distintas tecnologías y lenguajes de programación como: Pascal, Clipper, Foxpro (DOS/Visual Foxpro), Visual Basic, PHP, HTML, CSS, JavaScript y herramientas como Access, VBA. Para bases de datos MySql, PostGreSql y  SQL Server. Actualmente me encuentro en modo aprendiz autodidacta en Laravel/PHP, .Net 8. C# y Java.
 
-He podido contar con la oportunidad de participar en proyectos como consultor programador en ABAP/SAP, donde inicié en Abap Clásico y lo que me ha permitido hoy día encaminarme a los nuevos standares de Sap y todo lo que es Sap Cloud, Abap Cloud, Core Data Services (CDS), Restfull Application Programming Model (RAP) para S/4Hana, meta en la cual me encuentra trabajando en las distintas rutas de aprendizajes para lograr tal fin. 
+He podido contar con la oportunidad de participar en proyectos como consultor programador en ABAP/SAP, donde inicié en Abap Clásico (Dynpros, Alv's, SmartForms, Bapis, Badis, Enhancemente, Exit Users...) y lo que me ha permitido hoy día encaminarme a los nuevos standares de Sap y todo lo que es Sap Cloud, Abap Cloud, Core Data Services (CDS), Restfull Application Programming Model (RAP) para S/4Hana, meta en la cual me encuentro trabajando en las distintas rutas de aprendizajes para lograr tal fin. 
 
 Usario Linux y Windows (Siempre prefiriendo Linux)
 
