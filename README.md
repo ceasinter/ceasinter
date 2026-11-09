@@ -42,7 +42,7 @@ A diferencia de un desarrollador tradicional, yo entiendo el ciclo completo de l
 
 - [https://github.com/ceasinter/SOLICITUD_COMPRA.git] Práctica Abap Rap - Aplicación administrada (Managed RAP) diseñada para el control de Solicitudes de Compra.
 - [https://github.com/ceasinter/GESTION_EMPLEADOS.git] Práctica Abap Rap - Aplicación Rap Managed para la Gestión de Personal.
-
+- [https://github.com/ceasinter/CONTROL_ACTIVOS.git] Práctica Abap Rap - Aplicación Rap Managed para la Gestión y Control del Activos y Mantenimiento de los mismos.
 ---
 
 ### 🖥️ Proyectos C# / .NET
