@@ -40,8 +40,8 @@ A diferencia de un desarrollador tradicional, yo entiendo el ciclo completo de l
 
 ### 🎯 Proyectos SAP ABAP Cloud / RAP
 
-*   **[https://github.com/ceasinter/SOLICITUD_COMPRA.git]**: Práctica Abap Rap - Aplicación administrada (Managed RAP) diseñada para el control de Solicitudes de Compra.
-*   **[Nombre de tu repositorio SAP 2]**: Consumo de APIs externas en ABAP Cloud para la actualización automatizada de aranceles aduaneros.
+- [https://github.com/ceasinter/SOLICITUD_COMPRA.git] Práctica Abap Rap - Aplicación administrada (Managed RAP) diseñada para el control de Solicitudes de Compra.
+- [https://github.com/ceasinter/GESTION_EMPLEADOS.git] Práctica Abap Rap - Aplicación Rap Managed para la Gestión de Personal.
 
 ---
 
