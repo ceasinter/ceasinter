@@ -16,7 +16,7 @@ A diferencia de un desarrollador tradicional, yo entiendo el ciclo completo de l
 
 ## 🛠️ Stack Tecnológico
 
-### 🔵 Ecosistema SAP (Enfoque Principal)
+### 🔵 Ecosistema SAP 
 *   **Modern SAP:** ABAP Cloud | RAP (RESTful Application Programming Model) | CDS Views | SAP BTP Environment.
 *   **Classic ABAP:** Reports (ALV), Dynpros, SmartForms, BAPIs, BAdIs, Enhancements, Exit Users.
 *   **Frontend:** SAPUI5 / SAP Fiori | JavaScript.
