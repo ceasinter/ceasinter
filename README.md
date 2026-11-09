@@ -1,15 +1,52 @@
-# 👋 Hola, soy Carlos Amaro
-Aunque toda mi experiencia laboral durante mas de 20 años se ha basado en las áreas de Aduanas, Logística, Inventario, Almacenes y Centros de Distribución, mi pasión por la programación y automatización de procesos, me ha permitido crear herramientas y tareas en distintas tecnologías y lenguajes de programación como: Pascal, Clipper, Foxpro (DOS/Visual Foxpro), Visual Basic, PHP, HTML, CSS, JavaScript y herramientas como Access, VBA. Para bases de datos MySql, PostGreSql y  SQL Server. Actualmente me encuentro en modo aprendiz autodidacta en Laravel/PHP, .Net 8. C# y Java.
+# 🚀 Hola, soy Carlos Amaro
 
-He podido contar con la oportunidad de participar en proyectos como consultor programador en ABAP/SAP, donde inicié en Abap Clásico (Dynpros, Alv's, SmartForms, Bapis, Badis, Enhancemente, Exit Users...) y lo que me ha permitido hoy día encaminarme a los nuevos standares de Sap y todo lo que es Sap Cloud, Abap Cloud, Core Data Services (CDS), Restfull Application Programming Model (RAP) para S/4Hana, meta en la cual me encuentro trabajando en las distintas rutas de aprendizajes para lograr tal fin. 
+**Consultor Técnico SAP ABAP & Desarrollador de Software especializado en Soluciones Logísticas**
 
-Usario Linux y Windows (Siempre prefiriendo Linux)
+Con más de 20 años de trayectoria liderando operaciones en áreas de Aduanas, Inventarios, Almacenes y Centros de Distribución (CD), fusiono mi profundo conocimiento del negocio con el desarrollo de software moderno. Mi enfoque principal es la automatización de procesos críticos y la modernización de sistemas empresariales bajo estándares de Clean Core.
 
 ---
 
-# 🚀 Portafolio
+## 💼 El Valor de mi Perfil (Logística + Código)
+A diferencia de un desarrollador tradicional, yo entiendo el ciclo completo de la cadena de suministro desde el terreno. He diseñado e implementado soluciones de software a medida que resuelven problemas reales de:
+*   Control de Inventarios (Cíclicos, Generales) y Alertas de Quiebre de Stock.
+*   Valoración de Importaciones y Operaciones Aduaneras.
+*   Optimización de rutas de transporte y gestión de Centros de Distribución.
 
-# C# / .Net
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🔵 Ecosistema SAP (Enfoque Principal)
+*   **Modern SAP:** ABAP Cloud | RAP (RESTful Application Programming Model) | CDS Views | SAP BTP Environment.
+*   **Classic ABAP:** Reports (ALV), Dynpros, SmartForms, BAPIs, BAdIs, Enhancements, Exit Users.
+*   **Frontend:** SAPUI5 / SAP Fiori | JavaScript.
+
+### 💻 Desarrollo Web & Escritorio
+*   **Backend & Frameworks:** C# .NET | PHP (Laravel) | Java.
+*   **Bases de Datos:** SQL Server | PostgreSQL | MySQL | Entornos Legacy (VFP/FoxPro).
+*   **Herramientas & Entornos:** Eclipse ADT | Git / GitHub | Linux (OS de preferencia) | Windows.
+
+---
+
+## 📈 Idiomas y Proyección Internacional
+*   **Español:** Nativo.
+*   **Inglés:** Intermedio (Capacidad de lectura técnica y comunicación funcional).
+*   **Portugués:** Competencia de lectura avanzada y comprensión auditiva en desarrollo (Enfoque hacia el mercado de Brasil).
+*   **Chino Mandarín:** Estudiante autodidacta (Nivel actual: HSK2).
+
+---
+
+## 📂 Portafolio de Proyectos Destacados
+
+### 🎯 Proyectos SAP ABAP Cloud / RAP
+
+*   **[Nombre de tu repositorio SAP 1]**: Aplicación administrada (Managed RAP) diseñada para el control y automatización de puntos de reorden de inventario.
+*   **[Nombre de tu repositorio SAP 2]**: Consumo de APIs externas en ABAP Cloud para la actualización automatizada de aranceles aduaneros.
+
+---
+
+### 🖥️ Proyectos C# / .NET
+
 🎮 C# Consola
 - [Retro Slots](https://github.com/ceasinter/Retro-Slots-CSharp-Consola) – Juego retro de Slots TragaMoneda con animación de rodillos y tabla de pagos.
 - [CRUD Artículos](https://github.com/ceasinter/Crud-CSharp-Consola) - Crud en Consola con Conexión a MySql.
@@ -17,24 +54,9 @@ Usario Linux y Windows (Siempre prefiriendo Linux)
 🖥️ C# WinForms
 - [Formulario Gestión de Clientes](https://github.com/ceasinter/Formulario-Clientes-CSharp-WinForms) – CRUD en WinForms C# con conexión a MySQL.
 
-# Node.Js
-
-🌐 Node.js / APIs
-- Curso Node.js Express – Prácticas con Express, rutas y controladores.
-
-# Sap
-
-🧠 SAP / ABAP
-- ABAP Cloud – Ejercicios ABAP Cloud.
-- SAP Fiori – Proyecto Fiori para aplicaciones SAP.
-
-# Laravel Php
---- 
-
-# 🛠️ Tecnologías
-Laravel/PHP C# SAP/Abap SQL
-
 ---
+
+📬 ¡Conectemos! Si buscas un perfil técnico que entienda los dolores de la operación logística y hable el idioma del negocio, conversemos.
 
 # 📬 Contacto
 - LinkedIn: www.linkedin.com/in/carlos-enrique-amaro-soto
