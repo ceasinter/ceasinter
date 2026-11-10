@@ -2,7 +2,7 @@
 
 **Consultor Técnico SAP ABAP & Desarrollador de Software especializado en Soluciones Logísticas**
 
-Con más de 20 años de trayectoria liderando operaciones en áreas de Aduanas, Inventarios, Almacenes y Centros de Distribución (CD), fusiono mi profundo conocimiento del negocio con el desarrollo de software moderno. Mi enfoque principal es la automatización de procesos críticos y la modernización de sistemas empresariales bajo estándares de Clean Core.
+Con más de 10 años de trayectoria liderando operaciones en áreas de Aduanas, Inventarios, Almacenes y Centros de Distribución (CD), fusiono mi profundo conocimiento del negocio con el desarrollo de software moderno. Mi enfoque principal es la automatización de procesos críticos y la modernización de sistemas empresariales bajo estándares de Clean Core.
 
 ---
 
